@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T04:12:21.400Z" agent="5.0 (X11)" etag="PYPEtnWa2Wged0oS5enn" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T04:21:08.269Z" agent="5.0 (X11)" etag="iDPxxDB8Zrgjvda_7pkA" version="14.7.0" type="github">
   <diagram id="D3-NJg_RYqoYjLTufWp8" name="Page-1">
-    <mxGraphModel dx="2250" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,7 +272,7 @@
         <mxCell id="FmFGp3-X9sRr4KsUyV2_-63" value="RX_IF" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.39999999999999997;shadow=0;dashed=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="1670" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FmFGp3-X9sRr4KsUyV2_-150" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Block Diagram RX mode HackRF One&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;" parent="1" vertex="1">
+        <mxCell id="FmFGp3-X9sRr4KsUyV2_-150" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Block Diagram RX mode HackRF One&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Penerimaan sinyal RF yang diubah menjadi IF untuk di convert dalam bentuk digital&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="860" width="480" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FmFGp3-X9sRr4KsUyV2_-191" value="" style="group;rotation=90;" parent="1" vertex="1" connectable="0">
@@ -578,6 +578,33 @@
         </mxCell>
         <mxCell id="FmFGp3-X9sRr4KsUyV2_-272" value="NXP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontSize=16;" parent="FmFGp3-X9sRr4KsUyV2_-273" vertex="1">
           <mxGeometry y="130.31999999999994" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1140.5" y="1680" width="50.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-5" value="2.15GHz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vHYOffzLVdK2QY0dQAhD-4">
+          <mxGeometry x="10.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-6" value="" style="endArrow=openThin;html=1;endFill=0;" edge="1" parent="vHYOffzLVdK2QY0dQAhD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1141.75" y="1790" width="50.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-1" value="2.75GHz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vHYOffzLVdK2QY0dQAhD-10">
+          <mxGeometry x="10.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-2" value="" style="endArrow=openThin;html=1;endFill=0;" edge="1" parent="vHYOffzLVdK2QY0dQAhD-10">
+          <mxGeometry x="0.25" y="-70" width="50" height="50" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHYOffzLVdK2QY0dQAhD-11" value="2.1-2.75 GHz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="1520" width="109" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
