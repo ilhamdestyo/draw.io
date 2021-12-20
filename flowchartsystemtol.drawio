@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T19:18:53.868Z" agent="5.0 (Windows)" etag="--S4LdHYsXIQ_1s6BcaX" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T19:21:41.841Z" agent="5.0 (Windows)" etag="eTuJqnR3DMb0jnTWTfa0" version="16.0.0" type="github">
   <diagram id="Vxin4dct4LyRd3zt_5PY" name="Page-1">
-    <mxGraphModel dx="4700" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3760" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,9 +112,9 @@
           <mxGeometry x="960" y="610" width="205" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-28" value="ELSE IF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="490" y="665" width="60" height="30" as="geometry" />
+          <mxGeometry x="525" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYCuHwE8oDoKXghyWxFR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="UYCuHwE8oDoKXghyWxFR-30" target="UYCuHwE8oDoKXghyWxFR-14">
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UYCuHwE8oDoKXghyWxFR-30" target="UYCuHwE8oDoKXghyWxFR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-30" value="RFID DIBACA" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -153,9 +153,6 @@
         <mxCell id="UYCuHwE8oDoKXghyWxFR-37" value="ELSE IF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1150" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYCuHwE8oDoKXghyWxFR-38" value="IF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="365" y="590" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-39" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="410" y="770" width="60" height="30" as="geometry" />
         </mxCell>
@@ -187,12 +184,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="409.38" y="430" as="targetPoint" />
             <mxPoint x="399.38" y="400" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UYCuHwE8oDoKXghyWxFR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;shadow=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404.38" y="570" as="sourcePoint" />
-            <mxPoint x="404.38" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UYCuHwE8oDoKXghyWxFR-48" target="UYCuHwE8oDoKXghyWxFR-59">
@@ -240,6 +231,18 @@
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-65" value="TARIF GOLONGAN A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-72" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-73" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-74" value="FALSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-76" value="IF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="345" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
