@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T02:42:53.323Z" agent="5.0 (Windows)" etag="JTrFO7rP40eWZ4zFnaG4" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T02:43:26.791Z" agent="5.0 (Windows)" etag="AF03h0qBi_ns7LBiIPt4" version="16.0.0" type="github">
   <diagram id="Vxin4dct4LyRd3zt_5PY" name="Page-1">
-    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
             <mxPoint x="649.9999999999995" y="1180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYCuHwE8oDoKXghyWxFR-48" value="Jarak&amp;lt;=11 &amp;amp;&amp;amp; Jarak &amp;gt;=8" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-48" value="Jarak&amp;lt;=17&amp;amp;&amp;amp; Jarak &amp;gt;=11" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="450" y="1130" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UYCuHwE8oDoKXghyWxFR-57" target="UYCuHwE8oDoKXghyWxFR-48" edge="1">
@@ -217,7 +217,7 @@
         <mxCell id="UYCuHwE8oDoKXghyWxFR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UYCuHwE8oDoKXghyWxFR-62" target="UYCuHwE8oDoKXghyWxFR-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UYCuHwE8oDoKXghyWxFR-62" value="Jarak&amp;lt;=6 &amp;amp;&amp;amp; Jarak &amp;gt;=1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="UYCuHwE8oDoKXghyWxFR-62" value="Jarak&amp;lt;=11&amp;amp;&amp;amp; Jarak &amp;gt;=2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="725" y="1130" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYCuHwE8oDoKXghyWxFR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UYCuHwE8oDoKXghyWxFR-65" target="UYCuHwE8oDoKXghyWxFR-24" edge="1">
