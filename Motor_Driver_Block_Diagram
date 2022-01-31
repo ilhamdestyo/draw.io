@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T12:50:16.990Z" agent="5.0 (Windows)" version="16.0.2" etag="hQ6TXAJyDugt1GSrMFzT" type="github"><diagram id="0ZjyH62szUV4k0VDFfGh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-31T13:08:30.647Z" agent="5.0 (Windows)" etag="9nZrJiuBwpK448WlCCKX" version="16.0.2" type="github">
+  <diagram id="0ZjyH62szUV4k0VDFfGh" name="Page-1">
+    <mxGraphModel dx="1231" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="160" width="380" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry y="107.1875" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-4" target="V-TCOKZeBcmdDLO5xRgo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-4" target="V-TCOKZeBcmdDLO5xRgo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry y="306.25" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-1" target="V-TCOKZeBcmdDLO5xRgo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-6" target="V-TCOKZeBcmdDLO5xRgo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry y="413.4375" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-5" target="V-TCOKZeBcmdDLO5xRgo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="108.57142857142857" y="107.1875" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-16" target="V-TCOKZeBcmdDLO5xRgo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="108.57142857142857" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="108.57142857142857" y="306.25" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-14" target="V-TCOKZeBcmdDLO5xRgo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="108.57142857142857" y="413.4375" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-18" target="V-TCOKZeBcmdDLO5xRgo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="217.14285714285714" y="107.1875" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-23" target="V-TCOKZeBcmdDLO5xRgo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-23" target="V-TCOKZeBcmdDLO5xRgo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="217.14285714285714" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="217.14285714285714" y="306.25" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-21" target="V-TCOKZeBcmdDLO5xRgo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-26" target="V-TCOKZeBcmdDLO5xRgo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry x="217.14285714285714" y="413.4375" width="73.6734693877551" height="76.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37" source="V-TCOKZeBcmdDLO5xRgo-25" target="V-TCOKZeBcmdDLO5xRgo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-33" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54.285714285714285" y="214.375" as="sourcePoint" />
+            <mxPoint x="364.48979591836735" y="214.375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155.1020408163265" y="214.375" />
+              <mxPoint x="155.1020408163265" y="206.71875" />
+              <mxPoint x="162.85714285714286" y="206.71875" />
+              <mxPoint x="162.85714285714286" y="214.375" />
+              <mxPoint x="263.67346938775506" y="214.375" />
+              <mxPoint x="263.67346938775506" y="206.71875" />
+              <mxPoint x="271.42857142857144" y="206.71875" />
+              <mxPoint x="271.42857142857144" y="214.375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-35" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162.85714285714286" y="244.9999999999999" as="sourcePoint" />
+            <mxPoint x="395.51020408163265" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="263.67346938775506" y="245" />
+              <mxPoint x="263.67346938775506" y="237.34375" />
+              <mxPoint x="271.42857142857144" y="237.34375" />
+              <mxPoint x="271.42857142857144" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-36" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.42857142857144" y="275.6249999999999" as="sourcePoint" />
+            <mxPoint x="426.53061224489795" y="275.625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="275.625" />
+              <mxPoint x="380" y="275.625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
