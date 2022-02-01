@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T13:29:38.244Z" agent="5.0 (Windows)" etag="CIW3kSBWl3UeMGIRHv-p" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T13:34:14.344Z" agent="5.0 (Windows)" etag="7cvQIvo-SOttGlKZChpT" version="16.0.2" type="github">
   <diagram id="0ZjyH62szUV4k0VDFfGh" name="Page-1">
     <mxGraphModel dx="3336" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
           <mxGeometry x="69.99999999999997" y="49.68444444444444" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-56" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;MODULE DRIVER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
-          <mxGeometry x="39.298245614035075" width="234.92491228070173" height="17.85294117647059" as="geometry" />
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-56" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;MODULE DRIVER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
+          <mxGeometry x="19.65" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-63" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Driver Stage&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
           <mxGeometry x="19.65" y="98.22" width="98.25" height="21.78" as="geometry" />
@@ -175,16 +175,16 @@
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-64" value="IC" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;fontFamily=Times New Roman;fontSize=6;fontColor=#FFFFFF;fillColor=#FF00FF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
           <mxGeometry x="57.2972972972973" y="71.17647058823529" width="201.972972972973" height="181.17647058823528" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;ADC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-84" value="&lt;font color=&quot;#080617&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;A &amp;nbsp;&amp;nbsp; D&amp;nbsp;&amp;nbsp;&amp;nbsp; C&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
           <mxGeometry x="57.2972972972973" y="304.1176470588235" width="114.5945945945946" height="19.41176470588235" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-86" value="INPUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-86" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot; color=&quot;#080617&quot;&gt;INPUT&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
           <mxGeometry x="293.64864864864865" y="304.1176470588235" width="85.94594594594595" height="19.41176470588235" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-87" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.opto-coupler;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;strokeWidth=5;fillColor=#FF0000;flipV=0;flipH=1;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
           <mxGeometry x="393.9189189189189" y="252.35294117647055" width="121.75675675675676" height="64.70588235294117" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-103" value="Opto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-103" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Opto&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
           <mxGeometry x="424.8" y="222.35000000000002" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-111" value="&lt;b&gt;MODULE CONTROLLER&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
@@ -280,7 +280,7 @@
             <mxPoint x="143.24324324324323" y="323.52941176470586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-85" value="&lt;b&gt;OUTPUT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-85" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#080617&quot;&gt;&lt;b&gt;OUTPUT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
           <mxGeometry x="193.3783783783784" y="313.8235294117647" width="85.94594594594595" height="19.41176470588235" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-88" value="&lt;font color=&quot;#080617&quot;&gt;Thermal Sensor&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
@@ -340,6 +340,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-30" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;fontColor=#080617;strokeWidth=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
