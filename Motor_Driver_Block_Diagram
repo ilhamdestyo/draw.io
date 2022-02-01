@@ -1,101 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T13:35:30.849Z" agent="5.0 (Windows)" etag="1fvRmbB8eWJyLqKsj__j" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T13:27:06.524Z" agent="5.0 (Windows)" etag="58afEorEiij1nAzDzTcL" version="16.0.2" type="github">
   <diagram id="0ZjyH62szUV4k0VDFfGh" name="Page-1">
-    <mxGraphModel dx="545" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="75" y="100" width="285" height="170" as="geometry" />
+          <mxGeometry x="20" y="220" width="560" height="250" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-42" value="M" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=11;shape=ellipse;aspect=fixed;fontSize=35;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-61">
-          <mxGeometry x="200.8022696527882" y="37.26642857142856" width="84.19773034721179" height="84.19773034721179" as="geometry" />
+          <mxGeometry x="340" y="0.24" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-60" value="" style="group" vertex="1" connectable="0" parent="V-TCOKZeBcmdDLO5xRgo-61">
-          <mxGeometry width="223.82759657297458" height="170" as="geometry" />
+          <mxGeometry width="439.8015932661956" height="250" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-58" value="" style="group" vertex="1" connectable="0" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry width="157.96445212686007" height="170" as="geometry" />
+          <mxGeometry width="310.3862918983917" height="250" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#6666FF;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
-          <mxGeometry width="157.96445212686007" height="170" as="geometry" />
+          <mxGeometry width="310.3862918983917" height="250" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-54" value="" style="group;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="V-TCOKZeBcmdDLO5xRgo-58">
-          <mxGeometry x="5.552090786111528" y="66.78571428571428" width="58.90199909815121" height="48.57142857142857" as="geometry" />
+          <mxGeometry x="10" y="98.21" width="120" height="111.79" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry width="58.90199909815121" height="48.57142857142857" as="geometry" />
+          <mxGeometry width="119.99999999999999" height="111.79" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-44" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="4.908499924845933" y="21.587301587301585" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="9.999999999999996" y="49.68444444444444" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-45" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="9.816999849691866" y="26.98412698412698" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="19.999999999999993" y="62.10555555555555" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-46" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="14.725499774537802" y="32.38095238095237" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="29.999999999999996" y="74.52666666666666" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-48" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="24.542499624229666" y="10.793650793650793" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="49.99999999999999" y="24.84222222222222" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-49" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="29.450999549075604" y="16.190476190476186" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="59.99999999999999" y="37.26333333333333" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;fillColor=#4D3269;strokeColor=#6c8ebf;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-54">
-          <mxGeometry x="34.35949947392153" y="21.587301587301585" width="19.633999699383732" height="10.793650793650793" as="geometry" />
+          <mxGeometry x="69.99999999999997" y="49.68444444444444" width="39.999999999999986" height="24.84222222222222" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-56" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;MODULE DRIVER&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
-          <mxGeometry x="20" width="119.56" height="12.14" as="geometry" />
+          <mxGeometry x="39.298245614035075" width="234.92491228070173" height="17.85294117647059" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-63" value="&lt;font style=&quot;font-size: 6px&quot;&gt;Driver Stage&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
-          <mxGeometry x="10" y="66.79" width="50" height="3.21" as="geometry" />
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-63" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Driver Stage&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=#6C8EBF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-58">
+          <mxGeometry x="19.65" y="98.22" width="98.25" height="21.78" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="72.28881707500375" y="52.176339285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="142.04118442807754" y="76.72991071428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-4" target="V-TCOKZeBcmdDLO5xRgo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="72.28881707500375" y="24.285714285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="142.04118442807754" y="35.71428571428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="72.28881707500375" y="103.97321428571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="142.04118442807754" y="152.9017857142857" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-1" target="V-TCOKZeBcmdDLO5xRgo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="72.28881707500375" y="131.86383928571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="142.04118442807754" y="193.91741071428567" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-5" target="V-TCOKZeBcmdDLO5xRgo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="97.20469053396197" y="52.176339285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="190.99869017199543" y="76.72991071428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-16" target="V-TCOKZeBcmdDLO5xRgo-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="97.20469053396197" y="24.285714285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="190.99869017199543" y="35.71428571428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-4" target="V-TCOKZeBcmdDLO5xRgo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="97.20469053396197" y="103.97321428571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="190.99869017199543" y="152.9017857142857" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-14" target="V-TCOKZeBcmdDLO5xRgo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="97.20469053396197" y="131.86383928571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="190.99869017199543" y="193.91741071428567" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-18" target="V-TCOKZeBcmdDLO5xRgo-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="122.12056399292017" y="52.176339285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="239.9561959159133" y="76.72991071428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-23" target="V-TCOKZeBcmdDLO5xRgo-21">
           <mxGeometry relative="1" as="geometry" />
@@ -104,10 +104,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="122.12056399292017" y="24.285714285714285" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="239.9561959159133" y="35.71428571428571" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="122.12056399292017" y="103.97321428571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="239.9561959159133" y="152.9017857142857" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-21" target="V-TCOKZeBcmdDLO5xRgo-25">
           <mxGeometry relative="1" as="geometry" />
@@ -116,58 +116,234 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-60">
-          <mxGeometry x="122.12056399292017" y="131.86383928571428" width="16.907199847150213" height="19.921875" as="geometry" />
+          <mxGeometry x="239.9561959159133" y="193.91741071428567" width="33.221164611944275" height="29.296874999999996" as="geometry" />
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-25" target="V-TCOKZeBcmdDLO5xRgo-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-33" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-33" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="84.74675380448285" y="80.06696428571428" as="sourcePoint" />
-            <mxPoint x="155.93496368722063" y="80.06696428571428" as="targetPoint" />
+            <mxPoint x="166.51993730003645" y="117.7455357142857" as="sourcePoint" />
+            <mxPoint x="415.84158415841586" y="116.89189189189192" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="107.63001653389448" y="80.14285714285714" />
-              <mxPoint x="107.63001653389448" y="78.32142857142857" />
-              <mxPoint x="109.77190741019089" y="78.32142857142857" />
-              <mxPoint x="109.77190741019089" y="80.14285714285714" />
-              <mxPoint x="132.79723433037728" y="80.14285714285714" />
-              <mxPoint x="132.79723433037728" y="78.32142857142857" />
-              <mxPoint x="134.40365248759957" y="78.32142857142857" />
-              <mxPoint x="134.40365248759957" y="80.14285714285714" />
-              <mxPoint x="179.38336088982413" y="80.14285714285714" />
-              <mxPoint x="179.38336088982413" y="37.035714285714285" />
-              <mxPoint x="243.10461445964225" y="37.035714285714285" />
+              <mxPoint x="212" y="118" />
+              <mxPoint x="212" y="115" />
+              <mxPoint x="216" y="115" />
+              <mxPoint x="216" y="118" />
+              <mxPoint x="261" y="118" />
+              <mxPoint x="261" y="115" />
+              <mxPoint x="264" y="115" />
+              <mxPoint x="264" y="118" />
+              <mxPoint x="380" y="118" />
+              <mxPoint x="380" y="123" />
+              <mxPoint x="420" y="123" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-35" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.125;entryY=0.828;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-35" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="109.66262726344107" y="88.03571428571425" as="sourcePoint" />
-            <mxPoint x="163.05378467549437" y="88.03571428571428" as="targetPoint" />
+            <mxPoint x="215.47744304395434" y="129.46428571428567" as="sourcePoint" />
+            <mxPoint x="320.3863839237784" y="129.4642857142857" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="132.79723433037728" y="88.03571428571428" />
-              <mxPoint x="132.79723433037728" y="86.21428571428571" />
-              <mxPoint x="134.40365248759957" y="86.21428571428571" />
-              <mxPoint x="134.40365248759957" y="88.03571428571428" />
-              <mxPoint x="175.6350518563054" y="88.03571428571428" />
-              <mxPoint x="175.6350518563054" y="116.57142857142856" />
-              <mxPoint x="211.51172403427023" y="116.57142857142856" />
+              <mxPoint x="261" y="130" />
+              <mxPoint x="261" y="127" />
+              <mxPoint x="264" y="127" />
+              <mxPoint x="264" y="130" />
+              <mxPoint x="428" y="130" />
+              <mxPoint x="428" y="122" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-TCOKZeBcmdDLO5xRgo-36" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.92;entryY=0.791;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-36" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" target="V-TCOKZeBcmdDLO5xRgo-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="134.57850072239927" y="96.00446428571425" as="sourcePoint" />
-            <mxPoint x="170.96878959008825" y="120.5612244897959" as="targetPoint" />
+            <mxPoint x="264.4349487878722" y="141.18303571428567" as="sourcePoint" />
+            <mxPoint x="335.93867428227867" y="177.29591836734693" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170.8157973846385" y="95.92857142857142" />
-              <mxPoint x="170.8157973846385" y="145.7142857142857" />
-              <mxPoint x="278.44581391853296" y="145.7142857142857" />
+              <mxPoint x="440" y="141" />
+              <mxPoint x="440" y="122" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V-TCOKZeBcmdDLO5xRgo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-60" source="V-TCOKZeBcmdDLO5xRgo-6" target="V-TCOKZeBcmdDLO5xRgo-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-560" y="310" width="530" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-66" value="" style="group;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="530" height="355.88235294117646" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=6;strokeWidth=11;fillColor=#E1D5E7;strokeColor=#9673a6;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry width="530" height="355.88235294117646" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-64" value="IC" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;fontFamily=Times New Roman;fontSize=6;fontColor=#FFFFFF;fillColor=#FF00FF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="57.2972972972973" y="71.17647058823529" width="201.972972972973" height="181.17647058823528" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;ADC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="57.2972972972973" y="304.1176470588235" width="114.5945945945946" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-86" value="INPUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="293.64864864864865" y="304.1176470588235" width="85.94594594594595" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-87" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.opto-coupler;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;strokeWidth=5;fillColor=#FF0000;flipV=0;flipH=1;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="393.9189189189189" y="252.35294117647055" width="121.75675675675676" height="64.70588235294117" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-103" value="Opto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="424.8" y="222.35000000000002" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-111" value="&lt;b&gt;MODULE CONTROLLER&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-66">
+          <mxGeometry x="40" y="20" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=6;fontColor=#FFFFFF;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.2972972972973" y="427.05882352941177" as="sourcePoint" />
+            <mxPoint x="57.2972972972973" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=6;fontColor=#FFFFFF;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85.94594594594595" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="85.94594594594595" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114.5945945945946" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="114.5945945945946" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-70" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143.24324324324323" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="143.24324324324323" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171.8918918918919" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="171.8918918918919" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101" target="V-TCOKZeBcmdDLO5xRgo-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236.35135135135135" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="236.35135135135135" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322.29729729729723" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="322.29729729729723" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350.945945945946" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="350.945945945946" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-75" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436.8918918918919" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="436.8918918918919" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-77" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;shadow=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.2972972972973" y="427.05882352941177" as="sourcePoint" />
+            <mxPoint x="57.2972972972973" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85.94594594594595" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="85.94594594594595" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-80" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;shadow=0;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.2972972972973" y="427.05882352941177" as="sourcePoint" />
+            <mxPoint x="57.2972972972973" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-81" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85.94594594594595" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="85.94594594594595" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-82" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114.5945945945946" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="114.5945945945946" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-83" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;jumpSize=6;" edge="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143.24324324324323" y="427.05882352941165" as="sourcePoint" />
+            <mxPoint x="143.24324324324323" y="323.52941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-85" value="&lt;b&gt;OUTPUT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="193.3783783783784" y="313.8235294117647" width="85.94594594594595" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-88" value="&lt;font color=&quot;#080617&quot;&gt;Thermal Sensor&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="-37.92872727272727" y="504.28" width="183.28363636363636" height="19.41" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-90" value="&lt;font color=&quot;#080617&quot;&gt;BREAKING&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="23.596850122850125" y="484.8729411764706" width="121.75675675675676" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-91" value="&lt;font color=&quot;#080617&quot;&gt;THROTTLE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="50.13513513513514" y="484.8729411764706" width="121.75675675675676" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-92" value="&lt;font color=&quot;#080617&quot;&gt;Voltage Sensor&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="53.848" y="498.23" width="171.63327272727273" height="19.41" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-93" value="&lt;font color=&quot;#080617&quot;&gt;Current Sensor&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="82.62218181818182" y="498.1" width="171.3730909090909" height="19.41" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-94" value="&lt;font color=&quot;#080617&quot;&gt;INTERFACE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="372.43243243243245" y="472.3529411764706" width="121.75675675675676" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-95" value="&lt;font color=&quot;#080617&quot;&gt;LED&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="214.86851105651104" y="450.004705882353" width="42.972972972972975" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-96" value="&lt;div&gt;&lt;font color=&quot;#080617&quot;&gt;Direction&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="277.5337837837838" y="451.32352941176475" width="75.2027027027027" height="19.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-98" value="&lt;font color=&quot;#080617&quot;&gt;Sistem Pengaman&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="V-TCOKZeBcmdDLO5xRgo-101">
+          <mxGeometry x="245.6598181818182" y="513.76" width="203.40436363636366" height="19.41" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-102" value="HALL EFFECT SENSOR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=30;exitPerimeter=0;shadow=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V-TCOKZeBcmdDLO5xRgo-64" target="V-TCOKZeBcmdDLO5xRgo-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="300.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="411" />
+              <mxPoint x="-150" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=50;exitPerimeter=0;shadow=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V-TCOKZeBcmdDLO5xRgo-64" target="V-TCOKZeBcmdDLO5xRgo-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=70;exitPerimeter=0;shadow=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;entryX=-0.005;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V-TCOKZeBcmdDLO5xRgo-64" target="V-TCOKZeBcmdDLO5xRgo-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300.7297297297297" y="451.17647058823525" as="sourcePoint" />
+            <mxPoint x="18.44806854050796" y="295.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="451" />
+              <mxPoint x="-130" y="296" />
+              <mxPoint x="18" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-TCOKZeBcmdDLO5xRgo-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Times New Roman;fontSize=25;fontColor=#080617;endArrow=classic;endFill=1;entryX=-0.006;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=10;" edge="1" parent="1" source="V-TCOKZeBcmdDLO5xRgo-42" target="V-TCOKZeBcmdDLO5xRgo-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
