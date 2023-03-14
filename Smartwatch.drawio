@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T14:45:26.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="W876m2lgqOihhOLzxyIQ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T14:48:47.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="EHlWLYVINYi53_blp3oN" version="21.0.6" type="github">
   <diagram name="Page-1" id="pUd42uTbiC3XrVXly-Gs">
-    <mxGraphModel dx="1868" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-14" value="&lt;ul&gt;&lt;li&gt;Heart Rate&lt;/li&gt;&lt;li&gt;Vo2Max&lt;/li&gt;&lt;li&gt;Oxygen Saturation&lt;/li&gt;&lt;li&gt;Riwayat Exercise&lt;/li&gt;&lt;li&gt;Resting Heart Rate&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-870" width="200" height="110" as="geometry" />
+        <mxCell id="TJhl5usP08bAyr0qNwlt-14" value="&lt;ul&gt;&lt;li&gt;Heart Rate = Current Data&lt;/li&gt;&lt;li&gt;Vo2Max = Current Data&lt;/li&gt;&lt;li&gt;Oxygen Saturation = Current Data&lt;/li&gt;&lt;li&gt;Riwayat Exercise = Current Data&lt;/li&gt;&lt;li&gt;Resting Heart Rate = Current Data&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-870" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TJhl5usP08bAyr0qNwlt-16" target="TJhl5usP08bAyr0qNwlt-48">
           <mxGeometry relative="1" as="geometry" />
