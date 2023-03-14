@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T15:10:08.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="THgdCkHJsRlAlBgSDHdq" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T15:10:49.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Vi2YS9CCd9ZG36jXJRC7" version="21.0.6" type="github">
   <diagram name="Page-1" id="pUd42uTbiC3XrVXly-Gs">
     <mxGraphModel dx="996" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -86,8 +86,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="-840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="-765" />
-              <mxPoint x="850" y="-840" />
+              <mxPoint x="810" y="-765" />
+              <mxPoint x="810" y="-840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -98,9 +98,6 @@
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-39" value="User sudah &lt;br&gt;memilih mac address ?" style="rhombus;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="-810" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-43" value="Pairing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJhl5usP08bAyr0qNwlt-51">
           <mxGeometry relative="1" as="geometry">
@@ -113,9 +110,6 @@
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-51" value="&lt;ul&gt;&lt;li&gt;Exercise History&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="425" y="-570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-54" value="END" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-56" value="&lt;h1&gt;Service&lt;/h1&gt;&lt;p&gt;Alur kerja aplikasi atlet&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205.63" y="-1590" width="204.37" height="70" as="geometry" />
