@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T12:27:47.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="QZQTtzeDlkq8BePVdZu9" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T14:01:29.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="VMBQCxF7ATHOD5o8ADdL" version="21.0.6" type="github">
   <diagram name="Page-1" id="pUd42uTbiC3XrVXly-Gs">
-    <mxGraphModel dx="2134" dy="2974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,13 +75,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-14" value="&lt;ul&gt;&lt;li&gt;Hear Rate&lt;/li&gt;&lt;li&gt;Vo2Max&lt;/li&gt;&lt;li&gt;Oxygen Saturation&lt;/li&gt;&lt;li&gt;Riwayat Exercise&lt;/li&gt;&lt;li&gt;Resting Heart Rate&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TJhl5usP08bAyr0qNwlt-14" value="&lt;ul&gt;&lt;li&gt;Heart Rate&lt;/li&gt;&lt;li&gt;Vo2Max&lt;/li&gt;&lt;li&gt;Oxygen Saturation&lt;/li&gt;&lt;li&gt;Riwayat Exercise&lt;/li&gt;&lt;li&gt;Resting Heart Rate&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="-1090" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TJhl5usP08bAyr0qNwlt-16" target="TJhl5usP08bAyr0qNwlt-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-16" value="&lt;ul&gt;&lt;li&gt;Hear Rate&lt;/li&gt;&lt;li&gt;Grafik&lt;/li&gt;&lt;li&gt;Exercise Aktif&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TJhl5usP08bAyr0qNwlt-16" value="&lt;ul&gt;&lt;li&gt;Heart Rate&lt;/li&gt;&lt;li&gt;Vo2Max&lt;/li&gt;&lt;li&gt;Oxygen Saturation&lt;/li&gt;&lt;li&gt;Grafik&lt;/li&gt;&lt;li&gt;Exercise Aktif&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="-1090" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJhl5usP08bAyr0qNwlt-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="TJhl5usP08bAyr0qNwlt-19" target="TJhl5usP08bAyr0qNwlt-39">
@@ -193,8 +193,17 @@
         <mxCell id="TJhl5usP08bAyr0qNwlt-54" value="END" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="-480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TJhl5usP08bAyr0qNwlt-56" value="&lt;h1&gt;Service&lt;/h1&gt;&lt;p&gt;Alur proses penggunaan aplikasi dan smartwatch&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TJhl5usP08bAyr0qNwlt-56" value="&lt;h1&gt;Service&lt;/h1&gt;&lt;p&gt;Alur kerja aplikasi atlet&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-1610" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TJhl5usP08bAyr0qNwlt-59" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TJhl5usP08bAyr0qNwlt-60" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TJhl5usP08bAyr0qNwlt-61" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
