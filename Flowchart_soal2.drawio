@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="z-RfUfDk0pgXZEi8jQa1">
+    <mxGraphModel dx="1375" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-2" target="jjqF-V2ZBea7vsIz6yRU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-4" target="jjqF-V2ZBea7vsIz6yRU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-4" value="Serial init" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-6" target="jjqF-V2ZBea7vsIz6yRU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-6" value="Input Temperature" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="240" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-8" target="jjqF-V2ZBea7vsIz6yRU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-8" target="jjqF-V2ZBea7vsIz6yRU-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-8" value="if j &amp;gt; 10&lt;br&gt;(loop iterasi kurang dari 10x)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="225.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-10" target="jjqF-V2ZBea7vsIz6yRU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-10" target="jjqF-V2ZBea7vsIz6yRU-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-10" value="if i &amp;gt; 100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="225.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-15" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-16" value="Read Sensor value, save value,&lt;div&gt;i++ then delay for 10ms&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="202.75" y="600" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-20" target="jjqF-V2ZBea7vsIz6yRU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-20" value="Average Temp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-21" target="jjqF-V2ZBea7vsIz6yRU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-21" value="Serial print &quot;iterasi ke-&quot; then iterasi ++" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="660" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-23" target="jjqF-V2ZBea7vsIz6yRU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-23" value="Print rata rata&lt;br&gt;temperature berdasarkan iterasi then j++" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jjqF-V2ZBea7vsIz6yRU-26" target="jjqF-V2ZBea7vsIz6yRU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-26" value="Serial Print&lt;br&gt;&quot;Program Selesai" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="900" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jjqF-V2ZBea7vsIz6yRU-27" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
