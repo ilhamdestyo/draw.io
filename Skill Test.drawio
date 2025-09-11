@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="v65oP8j1OmCv6jkXBDlY">
+    <mxGraphModel dx="1375" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HyacK550S4UvNhxNWXPR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-1" target="HyacK550S4UvNhxNWXPR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-1" target="HyacK550S4UvNhxNWXPR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-1" value="Signal&lt;br&gt;Composite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-3" target="HyacK550S4UvNhxNWXPR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-3" value="Band Pass Filter" style="whiteSpace=wrap;html=1;rounded=0;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;shape=mxgraph.electrical.logic_gates.bandpass_filter;" vertex="1" parent="1">
+          <mxGeometry x="208" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-5" value="Output 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-6" target="HyacK550S4UvNhxNWXPR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-6" value="&lt;div align=&quot;justify&quot;&gt;Gain&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;x100&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="378" y="120" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-8" value="OP Amp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-9" value="&lt;div align=&quot;left&quot;&gt;Gain&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-1&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="468" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-11" value="Pembalik fasa 180&lt;span data-huuid=&quot;4759354689865943972&quot;&gt;&lt;span&gt;°&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-17" target="HyacK550S4UvNhxNWXPR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-17" value="&lt;div&gt;Comparator/&lt;/div&gt;&lt;div&gt;Level shifter 5V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-19" value="Output 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="718" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyacK550S4UvNhxNWXPR-21" target="HyacK550S4UvNhxNWXPR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-21" value="Band Pass Filter" style="whiteSpace=wrap;html=1;rounded=0;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;shape=mxgraph.electrical.logic_gates.bandpass_filter;" vertex="1" parent="1">
+          <mxGeometry x="208" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-23" value="2KHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="233" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-24" value="2KHz-20KHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="240" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyacK550S4UvNhxNWXPR-25" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
