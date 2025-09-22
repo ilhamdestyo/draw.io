@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
   <diagram name="Page-1" id="wzCmHmbMB4sMvoPLUbDs">
-    <mxGraphModel>
+    <mxGraphModel dx="1375" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ml6WB-XAszYyWog2nM7E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-1" target="ml6WB-XAszYyWog2nM7E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-1" value="&lt;div&gt;Determine the mechanical structure&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-2" target="ml6WB-XAszYyWog2nM7E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-2" target="ml6WB-XAszYyWog2nM7E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-2" value="Motor and sensor selection for the required specification" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="87.5" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-4" target="ml6WB-XAszYyWog2nM7E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-4" value="Implementation of pneumatic setup with actuator and solenoid valve&lt;br&gt;(IF WE NEED IT)" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="87.5" width="177.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-6" target="ml6WB-XAszYyWog2nM7E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-6" value="Determine Electrical/Electronics component and make connection" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420.62" y="200" width="156.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-9" target="ml6WB-XAszYyWog2nM7E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-9" value="PLC Programming or Firmware Development" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="421.87" y="340" width="153.76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml6WB-XAszYyWog2nM7E-11" target="ml6WB-XAszYyWog2nM7E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-11" value="Build I/O connection" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="438.75" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6WB-XAszYyWog2nM7E-13" value="Develop SCADA/HMI for Human Experience and User Interface" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="148.75" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
