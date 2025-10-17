@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E-hIAin5WO5EjVBt2hOF-1" value="&lt;div&gt;Controller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="E-hIAin5WO5EjVBt2hOF-1" value="&lt;div&gt;Controller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-1" value="Motor Powder Manual" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-2" value="Control powder otomatis" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-3" value="&lt;div&gt;Katup Gas&lt;/div&gt;&lt;div&gt;Manual&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-4" value="Control katup gas otomatis" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-6" value="Control katup gas otomatis" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
