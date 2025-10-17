@@ -20,7 +20,10 @@
           <mxGeometry x="510" y="30" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jmRvk0Otgw7nPKD-jSj2-6" value="&lt;div&gt;Control las&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="130" height="120" as="geometry" />
+          <mxGeometry x="540" y="260" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-7" value="Mesin Las Manual" style="shape=mxgraph.pid.shaping_machines.extruder_(screw);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
