@@ -4,48 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-hIAin5WO5EjVBt2hOF-1" target="jmRvk0Otgw7nPKD-jSj2-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="240" />
-              <mxPoint x="550" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-hIAin5WO5EjVBt2hOF-1" target="jmRvk0Otgw7nPKD-jSj2-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E-hIAin5WO5EjVBt2hOF-1" target="jmRvk0Otgw7nPKD-jSj2-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="240" />
-              <mxPoint x="550" y="335" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E-hIAin5WO5EjVBt2hOF-1" value="&lt;div&gt;Controller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-1" value="Motor Powder Manual" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-1" value="Motor Powder Manual" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="60" y="190" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-2" value="&lt;div&gt;Control&amp;nbsp;&lt;/div&gt;&lt;div&gt;powder&amp;nbsp;&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-2" value="&lt;div&gt;Control&amp;nbsp;&lt;/div&gt;&lt;div&gt;powder&amp;nbsp;&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="80" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-3" value="&lt;div&gt;Katup Gas&lt;/div&gt;&lt;div&gt;Manual&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="60" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-4" value="&lt;div&gt;Control&amp;nbsp;&lt;/div&gt;&lt;div&gt;katup gas&amp;nbsp;&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-4" value="&lt;div&gt;Control&amp;nbsp;&lt;/div&gt;&lt;div&gt;katup gas&amp;nbsp;&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-6" value="&lt;div&gt;Control las&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-6" value="&lt;div&gt;Control las&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="290" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-7" value="Mesin Las Manual" style="shape=mxgraph.pid.shaping_machines.extruder_(screw);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-7" value="Mesin Las Manual" style="shape=mxgraph.pid.shaping_machines.extruder_(screw);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="380" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jmRvk0Otgw7nPKD-jSj2-12" value="&lt;div&gt;24V&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=square;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="40" height="40" as="geometry" />
+        <mxCell id="jmRvk0Otgw7nPKD-jSj2-12" value="&lt;div&gt;24V&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=square;" parent="1" vertex="1">
+          <mxGeometry x="400" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_b1b4neWtRS9YPooz4BA-1" value="&lt;div&gt;Katup gas manual&lt;/div&gt;" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=solenoid" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
