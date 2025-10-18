@@ -8,7 +8,7 @@
           <mxGeometry x="560" y="110" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jmRvk0Otgw7nPKD-jSj2-1" value="Motor Powder Manual" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="510" y="390" width="60" height="100" as="geometry" />
+          <mxGeometry x="920" y="390" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jmRvk0Otgw7nPKD-jSj2-2" value="&lt;div&gt;Control&amp;nbsp;&lt;/div&gt;&lt;div&gt;powder&amp;nbsp;&lt;/div&gt;&lt;div&gt;otomatis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="80" width="100" height="100" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="10" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_b1b4neWtRS9YPooz4BA-1" value="&lt;div&gt;Katup gas manual&lt;/div&gt;" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=solenoid" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="60" height="60" as="geometry" />
+          <mxGeometry x="750" y="410" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_b1b4neWtRS9YPooz4BA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="_b1b4neWtRS9YPooz4BA-3" target="_b1b4neWtRS9YPooz4BA-10">
           <mxGeometry relative="1" as="geometry">
