@@ -173,13 +173,25 @@
           <mxGeometry x="210" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b2vfM-muYNRgebiiHFV-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="75" y="370" width="45" height="33.75" as="geometry" />
+          <mxGeometry x="95" y="388.13" width="45" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="9b2vfM-muYNRgebiiHFV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9b2vfM-muYNRgebiiHFV-4">
           <mxGeometry width="45" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="9b2vfM-muYNRgebiiHFV-2" value="Analog Input" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.potentiometer_1;" vertex="1" parent="9b2vfM-muYNRgebiiHFV-4">
           <mxGeometry x="2.5" y="6.8700000000000045" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9b2vfM-muYNRgebiiHFV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b2vfM-muYNRgebiiHFV-3" target="9b2vfM-muYNRgebiiHFV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b2vfM-muYNRgebiiHFV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b2vfM-muYNRgebiiHFV-3" target="9b2vfM-muYNRgebiiHFV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b2vfM-muYNRgebiiHFV-7" value="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="375" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9b2vfM-muYNRgebiiHFV-8" value="2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="406.88" width="20" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
