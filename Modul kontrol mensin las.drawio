@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Page-1" id="LfDY-hNR9aa1stgIBz5k">
-    <mxGraphModel dx="137" dy="76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,7 +448,7 @@
         <mxCell id="crmF50Fz8mZWRa6a0UP--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.166;exitY=0.998;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9b2vfM-muYNRgebiiHFV-1" target="crmF50Fz8mZWRa6a0UP--73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1620" y="468" />
+              <mxPoint x="1620" y="467" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -459,6 +459,36 @@
               <mxPoint x="1673" y="389" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--94" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.471;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="crmF50Fz8mZWRa6a0UP--95" target="9b2vfM-muYNRgebiiHFV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1711.3333333333335" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1711" y="460" />
+              <mxPoint x="1711" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.601;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="crmF50Fz8mZWRa6a0UP--95" target="9b2vfM-muYNRgebiiHFV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="472.49354005167953" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1759" y="472" />
+              <mxPoint x="1759" y="472" />
+              <mxPoint x="1759" y="391" />
+              <mxPoint x="1750" y="391" />
+              <mxPoint x="1750" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--95" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.break_contact;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1711.25" y="482.5" width="47.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--96" value="Interlock 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1705" y="497.5" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
