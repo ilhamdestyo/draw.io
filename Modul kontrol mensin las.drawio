@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Page-1" id="LfDY-hNR9aa1stgIBz5k">
-    <mxGraphModel dx="503" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,11 @@
         <mxCell id="_b1b4neWtRS9YPooz4BA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_b1b4neWtRS9YPooz4BA-44" target="jmRvk0Otgw7nPKD-jSj2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9b2vfM-muYNRgebiiHFV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9b2vfM-muYNRgebiiHFV-1" value="XC103&lt;br&gt;Coherent Customer Interface" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="230" width="300" height="170" as="geometry" />
         </mxCell>
@@ -295,6 +300,12 @@
         </mxCell>
         <mxCell id="crmF50Fz8mZWRa6a0UP--37" value="7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="443" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--39" value="+24V" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="305" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--40" value="13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="310" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
