@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Page-1" id="LfDY-hNR9aa1stgIBz5k">
-    <mxGraphModel dx="859" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="138" dy="76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,6 +309,12 @@
         </mxCell>
         <mxCell id="crmF50Fz8mZWRa6a0UP--42" value="&lt;h3 style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;font style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;Notes&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;&lt;font&gt;Penggunaan kabel konektor yang panjang menjadi salah satu penyebab membuat voltage drop pada analog input coherent, sehingga sinyal inputnya perlu dipertahankan oleh rangkaian buffer dan filter.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="100" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--44" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Reset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Push Button&lt;/div&gt;" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="1486.56" y="490" width="46.88" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
