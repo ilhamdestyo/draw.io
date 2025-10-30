@@ -307,6 +307,9 @@
         <mxCell id="crmF50Fz8mZWRa6a0UP--40" value="13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="310" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;Penggunaan kabel konektor yang panjang menjadi salah satu penyebab membuat voltage drop pada analog input coherent, sehingga sinyal inputnya perlu dipertahankan.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="90" width="230" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
