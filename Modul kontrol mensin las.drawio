@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Page-1" id="LfDY-hNR9aa1stgIBz5k">
-    <mxGraphModel dx="1875" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="crmF50Fz8mZWRa6a0UP--16" value="&lt;br&gt;&lt;br&gt;Switch Selector" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="crmF50Fz8mZWRa6a0UP--18">
           <mxGeometry x="31.230000000000018" y="15" width="37.54" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="crmF50Fz8mZWRa6a0UP--19" target="crmF50Fz8mZWRa6a0UP--145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crmF50Fz8mZWRa6a0UP--19" value="&lt;div&gt;Controller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1260" y="240" width="60" height="370" as="geometry" />
@@ -615,6 +618,12 @@
               <mxPoint x="1140" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--145" value="LCD Display status" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="650" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="crmF50Fz8mZWRa6a0UP--147" value="I2C" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
